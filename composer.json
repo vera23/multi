@@ -1,0 +1,19 @@
+{
+  "name": "vera23/multi",
+  "description": "Class and trait for making multiply exceptions",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/vera23/multiexception"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "vera23\\": "lib/"
+    }
+  },
+  "require": {
+    "php": ">5.6"
+  },
+  "version": "1.0.0"
+}
